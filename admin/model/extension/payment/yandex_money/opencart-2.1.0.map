@@ -1,3 +1,4 @@
+f:.well-known/apple-developer-merchantid-domain-association:.well-known/apple-developer-merchantid-domain-association
 f:admin/controller/extension/payment/yandex_money.php:admin/controller/payment/yandex_money.php
 f:{admin,catalog}/language/en-gb/extension/payment/yandex_money.php:{admin,catalog}/language/english/payment/yandex_money.php
 f:{admin,catalog}/language/ru-ru/extension/payment/yandex_money.php:{admin,catalog}/language/russian/payment/yandex_money.php
